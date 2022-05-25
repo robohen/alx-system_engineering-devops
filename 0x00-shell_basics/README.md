@@ -1,1 +1,2 @@
-nonempty readme
+some line 
+#!/bin/bash
